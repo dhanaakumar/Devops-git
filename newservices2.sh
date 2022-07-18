@@ -1,0 +1,1 @@
+I have done some changes in newservices2.sh file on july 18 2022
